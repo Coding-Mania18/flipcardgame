@@ -12,7 +12,7 @@ function myfun()
     "Rohit",
     "Vishnu",
     "Puneet",
-    "Rahul",
+    "Shantanu",
   ];
   var namestr = document.querySelectorAll("[id='name']");  
   var namelist = [];
